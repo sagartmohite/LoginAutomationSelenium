@@ -87,7 +87,7 @@ public class VWOLoginTest
         //Assert.assertEquals(driver.getCurrentUrl(), "https://app.vwo.com/#/dashboard/get-started?accountId=1123587");
         Thread.sleep(5000);
         driver.get("https://app.vwo.com/logout");
-        Thread.sleep(5000);
+        Thread.sleep(5000);it 
     }
 
     //@AfterSuite
