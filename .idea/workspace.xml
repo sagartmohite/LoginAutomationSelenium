@@ -6,8 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="325df69a-4286-454a-bfab-36d169a50d7c" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/VWOLoginTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/VWOLoginTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testng-prod.xml" beforeDir="false" afterPath="$PROJECT_DIR$/testng-prod.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,6 +42,9 @@
     "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "TestNG.C:/Users/sagar/IdeaProjects/VWOLoginAutomationSelenium/testng-prod.xml.executor": "Run",
+    "TestNG.C:/Users/sagar/IdeaProjects/VWOLoginAutomationSelenium/testng-stage.xml.executor": "Run",
+    "TestNG.C:/Users/sagar/IdeaProjects/VWOLoginAutomationSelenium/testng.xml.executor": "Run",
     "TestNG.Google.executor": "Run",
     "TestNG.TestGoogle.executor": "Run",
     "TestNG.VWOLoginTest.executor": "Run",
@@ -56,50 +59,31 @@
       <recent name="C:\Users\sagar\IdeaProjects\VWOLoginAutomationSelenium" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.VWOLoginTest">
-    <configuration name="AppTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="TestNG.C:/Users/sagar/IdeaProjects/VWOLoginAutomationSelenium/testng-prod.xml">
+    <configuration name="C:/Users/sagar/IdeaProjects/VWOLoginAutomationSelenium/testng-prod.xml" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="VWOLoginAutomationSelenium" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.thetestingacademy.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.thetestingacademy" />
-      <option name="MAIN_CLASS_NAME" value="com.thetestingacademy.AppTest" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Google" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="VWOLoginAutomationSelenium" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.thetestingacademy.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.thetestingacademy" />
-      <option name="MAIN_CLASS_NAME" value="com.thetestingacademy.Google" />
-      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng-prod.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
       <properties />
       <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestGoogle" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="C:/Users/sagar/IdeaProjects/VWOLoginAutomationSelenium/testng-stage.xml" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="VWOLoginAutomationSelenium" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.thetestingacademy.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.thetestingacademy" />
-      <option name="MAIN_CLASS_NAME" value="com.thetestingacademy.TestGoogle" />
-      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng-stage.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C:/Users/sagar/IdeaProjects/VWOLoginAutomationSelenium/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="VWOLoginAutomationSelenium" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
       <properties />
       <listeners />
       <method v="2">
@@ -143,11 +127,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.C:/Users/sagar/IdeaProjects/VWOLoginAutomationSelenium/testng-prod.xml" />
+        <item itemvalue="TestNG.C:/Users/sagar/IdeaProjects/VWOLoginAutomationSelenium/testng-stage.xml" />
+        <item itemvalue="TestNG.C:/Users/sagar/IdeaProjects/VWOLoginAutomationSelenium/testng.xml" />
         <item itemvalue="TestNG.VWOLoginTest" />
         <item itemvalue="TestNG.VWOLoginTest.testValidLogin" />
-        <item itemvalue="TestNG.TestGoogle" />
-        <item itemvalue="TestNG.Google" />
-        <item itemvalue="JUnit.AppTest" />
       </list>
     </recent_temporary>
   </component>

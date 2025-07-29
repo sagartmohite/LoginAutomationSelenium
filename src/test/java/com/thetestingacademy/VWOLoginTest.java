@@ -36,7 +36,7 @@ public class VWOLoginTest
 //    }
 
 
-    @Test(priority = 1, groups = {"negative", "sanity", "reg"})
+    @Test(priority = 1, groups = {"negative", "sanity", "reg", "prod"})
     @Severity(SeverityLevel.BLOCKER)
     @Description("TC#1 - Verify that with Invalid username and Valid password, Login is not successful !!")
     public void testInvalidLogin() throws InterruptedException
